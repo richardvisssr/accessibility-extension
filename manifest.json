@@ -6,8 +6,7 @@
   "permissions": [
     "activeTab",
     "scripting",
-    "storage",
-    "<all_urls>"
+    "storage"
   ],
   "options_page": "options.html",
   "icons": {
